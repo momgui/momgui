@@ -1,16 +1,13 @@
-### Hi there 👋
+# About Me
 
-<!--
-**momgui/momgui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋 Welcome to my GitHub page! 
 
-Here are some ideas to get you started:
+I'm a student currently pursuing a double degree in Mathematics and Computer Science at Université Paris-Saclay. 📚 My passion lies in exploring the intersection of these two fields, particularly in the realm of automated trading. 💹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+Currently, I'm diving deep into the world of automated trading and developing bots that can execute trades autonomously. 🤖 You can check the website project with the link bellow 😊
+
+## Get in Touch
+
+If you're interested in collaborating on projects, discussing ideas, or just want to connect, feel free to reach out to me! You can find my contact information just bellow. Let's chat! 😊
