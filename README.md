@@ -33,7 +33,8 @@ Mon fil rouge : automatiser des tâches concrètes en combinant algorithmique cl
 |---|---|---|
 | [`vocatome`](https://github.com/momgui/vocatome) | Application mobile pour apprendre une langue en lisant des livres, avec un algorithme SRS maison | React Native, TypeScript |
 | [`timeDirector`](https://github.com/momgui/timeDirector) | Application de gestion d'objectifs assistée par un LLM (découpage automatique de goals en tâches) | React Native, Supabase, Gemini |
-| [`tradingPassif`](https://github.com/momgui/tradingPassif) | Backtests et stratégies de trading algorithmique (dont analyse sentiment des minutes FOMC via LLM) | Python, pandas, OpenAI |
+| [`dots-and-boxes-ai`](https://github.com/momgui/dots-and-boxes-ai) | Agents de recherche adversariale pour Dots and Boxes : Alpha-Beta + tables de transposition (Zobrist, PVS) et MCTS parallélisé | Java |
+| [`fomc-sentiment-trading`](https://github.com/momgui/fomc-sentiment-trading) | Analyse de sentiment des communiqués de la Fed via LLM + backtests conditionnés par le sentiment | Python, pandas, OpenAI |
 | [`Compilation-s5`](https://github.com/momgui/Compilation-s5) | Compilateur pour un sous-ensemble de Go, écrit en OCaml | OCaml, Menhir |
 | [`automail`](https://github.com/momgui/automail) | Micro-API FastAPI orchestrant Smoobu ↔ OpenAI pour automatiser des réponses de réservation | FastAPI, OpenAI |
 | [`anp`](https://github.com/momgui/anp) | Implémentations Python de méthodes d'analyse numérique (intégration, interpolation) | Python, NumPy, Jupyter |
