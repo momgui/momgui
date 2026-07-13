@@ -1,7 +1,7 @@
 <h1 align="center">Guillaume Mombellet</h1>
 
 <p align="center">
-  Étudiant en <b>M1 Master Math et Ia</b> à l'Université Paris-Saclay.<br/>
+  Étudiant en <b>M1 Mathématiques & IA</b> à l'Université Paris-Saclay.<br/>
   Intéressé par le <b>machine learning appliqué</b>, les modèles de langue et les systèmes autonomes.
 </p>
 
@@ -43,7 +43,7 @@ Mon fil rouge : automatiser des tâches concrètes en combinant algorithmique cl
 
 - **2023 — 2026** · Licence Mathématiques & Informatique · Université Paris-Saclay
 - **2025 — 2026** · DU Entreprenariat · Université Paris-Saclay
-- **2026 — Présent** · Master Math & Ia · Université Paris-Saclay
+- **2026 — présent** · Master Mathématiques & IA · Université Paris-Saclay
 
 ## Contact
 
