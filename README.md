@@ -8,7 +8,7 @@
 <p align="center">
   <a href="mailto:guillaume.mombellet@gmail.com"><img src="https://img.shields.io/badge/email-guillaume.mombellet%40gmail.com-blue?style=flat-square"/></a>
   <!-- Ajoute ton LinkedIn ici -->
-  <!-- <a href="https://www.linkedin.com/in/TON-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a> -->
+  <a href="https://www.linkedin.com/in/guillaume-mombellet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
