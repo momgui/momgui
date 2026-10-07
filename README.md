@@ -1,52 +1,35 @@
-<h1 align="center">Guillaume Mombellet</h1>
+# Guillaume Mombellet
 
-<p align="center">
-  Étudiant en <b>M1 Mathématiques & IA</b> à l'Université Paris-Saclay.<br/>
-  Intéressé par le <b>machine learning appliqué</b>, les modèles de langue et les systèmes autonomes.
-</p>
+MSc student in Mathematics & AI at Université Paris-Saclay. I take AI products from the maths to the user: model, evaluation, backend, release.
 
-<p align="center">
-  <a href="mailto:guillaume.mombellet@gmail.com"><img src="https://img.shields.io/badge/email-guillaume.mombellet%40gmail.com-blue?style=flat-square"/></a>
-  <!-- Ajoute ton LinkedIn ici -->
-  <a href="https://www.linkedin.com/in/guillaume-mombellet"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+**Looking for a 5-month AI/ML engineering internship, 1 April to 31 August 2027.**
 
----
+## Now building
 
-## À propos
+**[LeContradictoire](https://lecontradictoire.com)**, an AI assistant for litigators: it finds the weak points in the opposing party's argument and backs each one with a citation to the law or case law in force.
 
-Je construis des projets à l'intersection des maths appliquées, du logiciel et de l'IA.
-Mon fil rouge : automatiser des tâches concrètes en combinant algorithmique classique et modèles récents (LLM, embeddings, RL).
+- Retrieval tools exposed as MCP servers over French and EU legal sources (statutes, case law, tax doctrine, EU law, ECHR case law, Hague conventions), built on top of an open-source Légifrance MCP server.
+- Evaluation first: a 465-case benchmark built from Cour de cassation rulings, labelled by the provisions the rulings themselves cite, with a sealed test split.
+- Code and benchmark write-up: coming in November 2026.
 
-**Actuellement** : je cherche un **stage en IA / Machine Learning** (recherche ou applied) pour l'année 2026-2027.
+## Shipped
+
+- **[Assospace](https://assospace.com)**: membership and admin platform for local non-profits (PHP, JavaScript, MySQL), built, hosted and supported alone since 2024.
+- **Freelance backend work** for the Comédie-Française ticketing system: MongoDB to MariaDB migration, data-model redesign, backend services. Client work, no public code.
+- **Eôs** ([timeDirector](https://github.com/momgui/timeDirector)): React Native / Expo app that turns a goal into a scheduled week with Gemini. Supabase auth, Android build, private beta. Discontinued in 2026.
+
+## Other projects
+
+| Project | What | Stack |
+|---|---|---|
+| [dots-and-boxes-ai](https://github.com/momgui/dots-and-boxes-ai) | Game agent with alpha-beta, PVS and a Zobrist transposition table, plus a parallel MCTS. 1st of 8 teams in the Symbolic AI course tournament | Java |
+| [Compilation-s5](https://github.com/momgui/Compilation-s5/tree/guillaume) | Compiler for a subset of Go: lexer, Menhir parser, type checker. Pair project built from a course skeleton | OCaml |
+| [open-neovax](https://github.com/open-neovax-course/open-neovax) | Group contribution to a 24-contributor Python framework for HLA class I neoepitope prioritization: the C2 module and a scoring module, with tests (4 merged PRs) | Python |
 
 ## Stack
 
-- **Langages** : Python, TypeScript, OCaml, C++
-- **ML / Data** : PyTorch, NumPy, pandas, scikit-learn, HuggingFace, LangChain
-- **App & backend** : FastAPI, React Native (Expo), Supabase
-- **Outils** : Git, Docker, Linux, Jupyter, LaTeX
-
-## Projets à regarder
-
-| Projet | Description | Stack |
-|---|---|---|
-| [`vocatome`](https://github.com/momgui/vocatome) | Application mobile pour apprendre une langue en lisant des livres, avec un algorithme SRS maison | React Native, TypeScript |
-| [`timeDirector`](https://github.com/momgui/timeDirector) | Application de gestion d'objectifs assistée par un LLM (découpage automatique de goals en tâches) | React Native, Supabase, Gemini |
-| [`dots-and-boxes-ai`](https://github.com/momgui/dots-and-boxes-ai) | 🏆 Vainqueur du tournoi d'IA symbolique Paris-Saclay (1er/8) — Alpha-Beta + tables de transposition (Zobrist, PVS) et MCTS parallélisé | Java |
-| [`fomc-sentiment-trading`](https://github.com/momgui/fomc-sentiment-trading) | Analyse de sentiment des communiqués de la Fed via LLM + backtests conditionnés par le sentiment | Python, pandas, OpenAI |
-| [`Compilation-s5`](https://github.com/momgui/Compilation-s5) | Compilateur pour un sous-ensemble de Go, écrit en OCaml | OCaml, Menhir |
-| [`automail`](https://github.com/momgui/automail) | Micro-API FastAPI orchestrant Smoobu ↔ OpenAI pour automatiser des réponses de réservation | FastAPI, OpenAI |
-| [`anp`](https://github.com/momgui/anp) | Implémentations Python de méthodes d'analyse numérique (intégration, interpolation) | Python, NumPy, Jupyter |
-
-## Formation
-
-- **2023 — 2026** · Licence Mathématiques & Informatique · Université Paris-Saclay
-- **2025 — 2026** · DU Entreprenariat · Université Paris-Saclay
-- **2026 — présent** · Master Mathématiques & IA · Université Paris-Saclay
+Python · TypeScript · Java · OCaml · SQL · LLM APIs and MCP · FastAPI · Supabase · React Native · MariaDB / MySQL · Linux · Git
 
 ## Contact
 
-- Email : [guillaume.mombellet@gmail.com](mailto:guillaume.mombellet@gmail.com)
-- Blog / expérimentations : [tradingpassif.com](https://tradingpassif.com)
-<!-- - LinkedIn : à compléter -->
+[LinkedIn](https://www.linkedin.com/in/guillaume-mombellet/) · guillaume.mombellet@gmail.com
