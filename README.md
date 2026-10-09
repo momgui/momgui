@@ -2,7 +2,7 @@
 
 MSc student in Mathematics & AI at Université Paris-Saclay. I take AI products from the maths to the user: model, evaluation, backend, release.
 
-**Looking for a 5-month AI/ML engineering internship, 1 April to 31 August 2027.**
+**Available for a 5-month AI/ML engineering internship, 1 April to 31 August 2027.**
 
 ## Now building
 
